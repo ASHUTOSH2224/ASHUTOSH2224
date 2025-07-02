@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on **AI Web Apps and CRM Systems**
+- 🔭 I’m currently working on **AI Web Apps, Mobile Apps and CRM Systems**
 - 🌱 I’m learning **Web3, LLM Integrations & Next.js**
 - 👯 I’m open to collaborate on **Freelance & Startup Projects**
 - 💬 Ask me about **AI automation, full-stack dev, and deploying ML models**
-- 📫 Reach me at **ashutosh2224@gmail.com**
+- 📫 Reach me at **2224ashutosh@gmail.com**
 - ⚡ Fun fact: I build bots that work while I sleep 😉
 
 ---
